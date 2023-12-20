@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="HalamanUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Project TesPKL\HalamanUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Project TesPKL\Home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Project TesPKL\Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Project TesPKL\Register.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
